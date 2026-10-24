@@ -78,4 +78,4 @@ An interactive **Power BI** dashboard that tracks sales and profitability for a 
 ## 👤 Author
 
 **Ahmed Ghonim** – Data Analyst
-[GitHub](https://github.com/A7medGhonim) · [LinkedIn](ضع-رابطك-هنا)
+[GitHub](https://github.com/A7medGhonim) · [LinkedIn](www.linkedin.com/in/ahmeedghonim)

@@ -73,7 +73,7 @@ An interactive **Power BI** dashboard that tracks sales and profitability for a 
 ## 📝 Notes
 
 - September is partial (through 15 Sep), so its drop is expected.
-- Data source: *(write here: where the data came from, e.g. public dataset or synthetic data)*.
+
 
 ## 👤 Author
 
